@@ -1,0 +1,2 @@
+db = None
+cursor = None
